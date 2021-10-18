@@ -53,6 +53,11 @@ Here is where I want to have info on ringtails.
 ![Ringtail cat (Photo courtesy Virgina Zoo)](img/ringtail_cat.jpg)
 we'll also learn about `knitr::include graphics`
 
+Add a few fun facts:
+- They can rotate their hind feet 180 degrees, which make them really god at climbing
+- They are not endangered, but just reclusive
+- They are related to raccoon 
+
 ###
 
 ----------
